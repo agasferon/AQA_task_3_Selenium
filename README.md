@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/cx0yr40hu6g8bwpa?svg=true)](https://ci.appveyor.com/project/agasferon/aqa-task-3-selenium)
